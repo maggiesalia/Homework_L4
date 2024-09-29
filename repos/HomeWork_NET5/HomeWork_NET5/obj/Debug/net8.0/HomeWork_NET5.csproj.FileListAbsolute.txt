@@ -1,0 +1,14 @@
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\bin\Debug\net8.0\HomeWork_NET5.exe
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\bin\Debug\net8.0\HomeWork_NET5.deps.json
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\bin\Debug\net8.0\HomeWork_NET5.runtimeconfig.json
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\bin\Debug\net8.0\HomeWork_NET5.dll
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\bin\Debug\net8.0\HomeWork_NET5.pdb
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\HomeWork_NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\HomeWork_NET5.AssemblyInfoInputs.cache
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\HomeWork_NET5.AssemblyInfo.cs
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\HomeWork_NET5.csproj.CoreCompileInputs.cache
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\HomeWork_NET5.dll
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\refint\HomeWork_NET5.dll
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\HomeWork_NET5.pdb
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\HomeWork_NET5.genruntimeconfig.cache
+C:\Users\GE507\source\repos\HomeWork_NET5\HomeWork_NET5\obj\Debug\net8.0\ref\HomeWork_NET5.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GE507\\source\\repos\\HomeWork_NET5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C86A65E-1A9E-4129-AFAE-516B0BC7F6AA}|HomeWork_NET5\\HomeWork_NET5.csproj|c:\\users\\ge507\\source\\repos\\homework_net5\\homework_net5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C86A65E-1A9E-4129-AFAE-516B0BC7F6AA}|HomeWork_NET5\\HomeWork_NET5.csproj|solutionrelative:homework_net5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GE507\\source\\repos\\HomeWork_NET5\\HomeWork_NET5\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork_NET5\\Program.cs",
+              "ToolTip": "C:\\Users\\GE507\\source\\repos\\HomeWork_NET5\\HomeWork_NET5\\Program.cs",
+              "RelativeToolTip": "HomeWork_NET5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:10:16.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
